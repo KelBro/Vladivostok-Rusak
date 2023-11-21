@@ -1,8 +1,6 @@
-def main():
-    print('My first git program')
-    if True:
-        print("Abobagk")
+def hiGit():
+    print('My first git-repo')
 
 
 if __name__ == '__main__':
-    main()
+    hiGit()
